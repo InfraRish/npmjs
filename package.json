@@ -1,0 +1,22 @@
+{
+  "name": "infrarish",
+  "version": "0.0.0",
+  "description": "null",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InfraRish/npmjs.git"
+  },
+  "keywords": [
+    "infrarish"
+  ],
+  "author": "InfraRish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InfraRish/npmjs/issues"
+  },
+  "homepage": "https://github.com/InfraRish/npmjs#readme"
+}
